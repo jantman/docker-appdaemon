@@ -1,4 +1,4 @@
-FROM acockburn/appdaemon:4.0.5
+FROM acockburn/appdaemon:4.2.1
 
 ARG source_commit
 ARG docker_tag
